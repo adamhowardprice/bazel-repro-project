@@ -1,0 +1,12 @@
+{
+  "configDefaults" : {
+    "optionSet" : {
+
+    }
+  },
+  "projectName" : "bazel_repro_project",
+  "packages" : [
+    "src"
+  ],
+  "workspaceRoot" : ".."
+}

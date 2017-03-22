@@ -1,9 +1,7 @@
-load('//other/bazel:macros.bzl', 'sp_library')
-
-sp_library(
+objc_library(
     name = 'foo',
     hdrs = ['foo.h'],
-    srcs = ['foo.mm'],
+    srcs = ['foo.m'],
     includes = ['.'],
     visibility = ['//visibility:public'],
 )

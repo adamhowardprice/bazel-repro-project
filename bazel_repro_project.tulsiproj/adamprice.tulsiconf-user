@@ -1,0 +1,10 @@
+{
+  "optionSet" : {
+    "WorkspaceRootPath" : {
+      "p" : "\/Users\/adamprice\/Code\/bazel-repro-project"
+    },
+    "BazelPath" : {
+      "p" : "\/Users\/adamprice\/Code\/bazel\/output\/bazel"
+    }
+  }
+}
